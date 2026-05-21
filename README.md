@@ -29,22 +29,9 @@ IT specialist focused on networking, systems support, and secure enterprise envi
 - Network Troubleshooting
 
 
-
----
-
 # Featured Lab Projects
 
-## VLAN Configuration Lab
-Configured VLAN segmentation for multiple departments, verified trunk links, and tested inter-device communication.
 
-## DHCP Troubleshooting Lab
-Configured DHCP scopes and resolved IP assignment issues through systematic troubleshooting.
-
-## Static Routing Lab
-Built multi-router topology and configured static routes for end-to-end connectivity.
-
-## Active Directory Home Lab
-Created organizational units, users, groups, and applied basic Group Policy configurations.
 
 ---
 
@@ -58,9 +45,7 @@ Created organizational units, users, groups, and applied basic Group Policy conf
 
 ---
 
-# Lab Repository
 
-[View My Networking Labs](https://github.com/YOUR-USERNAME/network-admin-labs)
 
 ---
 
