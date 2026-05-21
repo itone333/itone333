@@ -7,11 +7,7 @@
 
 
 <h2> 🤳 Connect with me:</h2>
-
-
-
-
-[linkedin]: www.linkedin.com/in/robert-dozier-54a1797a
+www.linkedin.com/in/robert-dozier-54a1797a
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
