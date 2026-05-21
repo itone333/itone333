@@ -3,17 +3,16 @@
 "<img width="180" height="180" alt="Professional Headshot" src="https://github.com/user-attachments/assets/3ec03d27-d522-4ca3-b956-bbdaa74e1bc1" />
 
 
-Aspiring Network Administrator with hands-on lab experience in networking, troubleshooting, Windows administration, and infrastructure fundamentals. Currently building practical skills through home labs, virtual environments, and certification-based projects.
-
+IT specialist focused on networking, systems support, and secure enterprise environments. Experienced in troubleshooting, end-user support, and infrastructure models.
 ---
 
 # Certifications
 
 | Certification | Verification |
 |---|---|
-| CompTIA Network+ | [View Credential](PASTE-YOUR-CREDLY-LINK) |
-| CompTIA A+ | [View Credential](PASTE-YOUR-CREDLY-LINK) |
-| CompTIA Security+ | In Progress |
+| CompTIA Network+ | [View Credential](https://www.credly.com/badges/5ada5e24-804c-44a6-b6fe-d7a173a951b7/public_url) |
+| CompTIA A+ | [View Credential](https://www.credly.com/badges/b8a143d4-a697-461a-8b4d-e6bc951e8ae3/public_url) |
+| CompTIA Security+ | [View Credential](https://www.credly.com/badges/b2d0fa47-8eec-4c6d-b206-a45aabd8f91a/public_url) |
 
 ---
 
@@ -21,27 +20,15 @@ Aspiring Network Administrator with hands-on lab experience in networking, troub
 
 ## Networking
 - VLAN Configuration
-- Subnetting
-- DHCP
-- DNS
-- NAT
+- Helpdesk & End User Support
+- Active Directory
+- Windows 10/11 support
+- VMware/Virtualization Basics
 - Static Routing
 - Switching Fundamentals
 - Network Troubleshooting
 
-## Systems
-- Windows 10/11
-- Windows Server
-- Active Directory Basics
-- Group Policy
-- User & Permission Management
 
-## Tools & Platforms
-- Cisco Packet Tracer
-- Wireshark
-- VirtualBox
-- PowerShell Basics
-- GitHub Documentation
 
 ---
 
