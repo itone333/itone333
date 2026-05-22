@@ -51,8 +51,8 @@ IT specialist focused on networking, systems support, and secure enterprise envi
 
 # Connect With Me
 
-- [LinkedIn](https://linkedin.com/in/YOUR-LINKEDIN)
-- [GitHub](https://github.com/YOUR-USERNAME)
+- [LinkedIn](https://www.linkedin.com/in/robert-dozier-54a1797a)
+- [GitHub](https://github.com/itone333)
 
 ---
 
