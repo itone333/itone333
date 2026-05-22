@@ -29,7 +29,9 @@ IT specialist focused on networking, systems support, and secure enterprise envi
 - Network Troubleshooting
 
 
-# Featured Lab Projects
+## Featured Lab Projects
+
+[Enterprise Workplace Configuration](https://github.com/itone333/Enterprise-Workstation-Network-Configuration)
 
 
 
@@ -71,14 +73,3 @@ IT professional focused on enterprise networking, infrastructure support, and sy
 
 ---
 
-# Repository Structure
-
-```text
-network-admin-labs/
-│
-├── vlan-lab/
-├── dhcp-lab/
-├── routing-lab/
-├── active-directory-lab/
-├── packet-tracer-files/
-└── screenshots/
