@@ -58,7 +58,7 @@ IT specialist focused on networking, systems support, and secure enterprise envi
 
 # Career Objective
 
-IT professional focused on enterprise networking, infrastructure support, and systems administration with hands-on technical experience and a strong emphasis on continuous learning, infrastructure implementation, and operational documentation.
+**IT professional focused on enterprise networking, infrastructure support, and systems administration with hands-on technical experience and a strong emphasis on continuous learning, infrastructure implementation, and operational documentation.
 ---
 
 # Stats
