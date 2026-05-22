@@ -64,8 +64,9 @@ IT professional focused on enterprise networking, infrastructure support, and sy
 # Stats
 
 - CompTIA Certified
-- Hands-on Home Lab Experience
-- Documented Networking Projects
+- Enterprise Network Simulation Experience
+- Infrastructure Implementation Documentation
+- 3 Years of Real World Experience
 - Continuous Technical Learning
 
 ---
