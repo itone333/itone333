@@ -37,6 +37,8 @@ IT specialist focused on networking, systems support, and secure enterprise envi
 
 [Enterprise Wireless Network Implementation](https://github.com/itone333/-Enterprise-Wireless-Network-Implementation)
 
+[Enterprise Perimeter Firewall Implementation](https://github.com/itone333/Enterprise-Perimeter-Firewall-Implementation)
+
 
 
 ---
