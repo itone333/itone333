@@ -33,6 +33,8 @@ IT specialist focused on networking, systems support, and secure enterprise envi
 
 [Enterprise Workplace Configuration](https://github.com/itone333/Enterprise-Workstation-Network-Configuration)
 
+[VLAN Segmentation Switch Deployment](https://github.com/itone333/VLAN-Segmentation-Switch-Deployment)
+
 
 
 ---
