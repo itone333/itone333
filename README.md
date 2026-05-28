@@ -1,6 +1,6 @@
 # Hi, I'm Robert
 
-"<img width="180" height="180" alt="Professional Headshot" src="https://github.com/user-attachments/assets/3ec03d27-d522-4ca3-b956-bbdaa74e1bc1" />
+<img width="180" height="180" alt="Professional Headshot" src="https://github.com/user-attachments/assets/3ec03d27-d522-4ca3-b956-bbdaa74e1bc1" />
 
 
 IT specialist focused on networking, systems support, and secure enterprise environments. Experienced in troubleshooting, end-user support, and infrastructure models.
